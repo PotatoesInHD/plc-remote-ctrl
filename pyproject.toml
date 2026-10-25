@@ -1,0 +1,13 @@
+[project]
+name = "plc-remote-ctrl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cpppo>=5.2.5",
+    "matplotlib>=3.11.2",
+    "pymodbus>=3.16.1",
+    "python-dotenv>=1.2.4",
+    "twilio>=9.12.0",
+]

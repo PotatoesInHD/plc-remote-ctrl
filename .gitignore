@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.spec
+
+# Virtual environments
+.venv
+
+# User generated files
+todolist.txt
+zmain_plc_email.py
+zmain_plc_email2.py
+.env
+*.png
+*.jpg
+*_trial.py
