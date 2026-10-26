@@ -15,3 +15,7 @@ class EnvVariables():
         self.EMAIL_LOGIN = os.environ["EMAIL_LOGIN"]
         self.TO_EMAIL = os.environ["T0_EMAIL"]
         self.PLC_IP = os.environ["PLC_IP"]
+
+class Config():
+    def __init__(self) -> None:
+        pass

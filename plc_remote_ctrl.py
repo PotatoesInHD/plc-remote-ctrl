@@ -1,10 +1,13 @@
 import os
 import sys
+import logging
 
-from dotenv import load_dotenv
+from config import EnvVariables, Config
+from logger_cfg import Logger
+
 
 def main():
-    load_dotenv()
+    env = EnvVariables()
 
 
 if __name__ == "__main__":
