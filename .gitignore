@@ -12,8 +12,6 @@ wheels/
 
 # User generated files
 todolist.txt
-zmain_plc_email.py
-zmain_plc_email2.py
 .env
 *.png
 *.jpg
